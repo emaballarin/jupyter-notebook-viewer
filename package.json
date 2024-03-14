@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@material/button": "^0.37.1",
-    "@material/ripple": "^0.37.1",
+    "@material/ripple": "^14.0.0",
     "@material/switch": "^0.36.1",
     "@material/tabs": "^0.37.1",
     "@material/textfield": "^14.0.0",
