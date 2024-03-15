@@ -24,7 +24,7 @@
     "remark-breaks": "^2.0.1",
     "remark-footnotes": "^4.0.1",
     "remark-frontmatter": "^5.0.0",
-    "remark-gfm": "^1.0.0",
+    "remark-gfm": "^4.0.0",
     "remark-html": "^13.0.1",
     "remark-slug": "^7.0.1"
   },
