@@ -12,7 +12,7 @@
     "url": "https://github.com/imvladikon/jupyter-notebook-viewer.git"
   },
   "dependencies": {
-    "@material/button": "^0.37.1",
+    "@material/button": "^14.0.0",
     "@material/ripple": "^14.0.0",
     "@material/switch": "^14.0.0",
     "@material/tabs": "^2.3.0",
