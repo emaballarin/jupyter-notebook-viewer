@@ -17,7 +17,7 @@
     "@material/switch": "^14.0.0",
     "@material/tabs": "^2.3.0",
     "@material/textfield": "^14.0.0",
-    "marked": "^12.0.1",
+    "marked": "^13.0.0",
     "mithril": "^2.2.2",
     "prismjs": "^1.22.0",
     "remark": "^15.0.1",
