@@ -39,7 +39,7 @@
     "puppeteer": "24.16.2",
     "rollup": "^4.13.0",
     "@rollup/plugin-commonjs": "^25.0.0",
-    "@rollup/plugin-node-resolve": "^15.2.0",
+    "@rollup/plugin-node-resolve": "^16.0.1",
     "terser": "^5.26.0",
     "uglify-js": "^3.17.0"
   },
