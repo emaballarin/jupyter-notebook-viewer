@@ -33,7 +33,7 @@
     "@babel/preset-env": "^7.23.0",
     "browserify": "^17.0.0",
     "csso-cli": "^4.0.2",
-    "iconv-lite": "^0.6.3",
+    "iconv-lite": "^0.7.0",
     "mocha": "^11.0.1",
     "node-sass": "^9.0.0",
     "puppeteer": "24.16.2",
