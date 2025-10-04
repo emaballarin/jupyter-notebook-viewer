@@ -49,8 +49,7 @@
 
   "permissions": [
     "storage",
-    "scripting",
-    "tabs"
+    "scripting"
   ],
 
   "host_permissions": [
