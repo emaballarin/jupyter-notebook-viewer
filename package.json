@@ -36,7 +36,7 @@
     "iconv-lite": "^0.7.0",
     "mocha": "^11.0.1",
     "node-sass": "^9.0.0",
-    "puppeteer": "24.26.0",
+    "puppeteer": "24.26.1",
     "rollup": "^4.13.0",
     "@rollup/plugin-commonjs": "^28.0.6",
     "@rollup/plugin-node-resolve": "^16.0.1",
